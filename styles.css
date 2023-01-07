@@ -1,5 +1,9 @@
 .text{
     background-color: aliceblue;
-    border-left: 8px solid green;
-    padding-left: 2px;
+    border-left:7px solid green;
+    padding-left:15px;
+	padding-top:15px;
+	padding-bottom:15px;
+	font-size:12px;
+	margin-left:13px
 }
